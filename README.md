@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **zizi32/zizi32** is a ✨ _special_ ✨ repository because its `README.md` (this file) a# 💫 About Me:
 🔭 I’m currently working on<br><br>Web projects & small automation tools<br><br>Digital assets & online services<br><br><br>👯 I’m looking to collaborate on<br><br>Open-source beginner projects<br><br>Discord bots & web-based tools<br><br>Programming communities<br><br><br>🤝 I’m looking for help with<br><br>Backend development<br><br>API integration<br><br>Cybersecurity fundamentals<br><br><br>🌱 I’m currently learning<br><br>HTML, CSS, JavaScript<br><br>Bot automation & basic backend<br><br>Cybersecurity & ethical hacking basics<br><br><br>💬 Ask me about<br><br>Beginner coding<br><br>Discord bots<br><br>Online projects & teamwork<br><br><br>⚡ Fun fact<br><br>I started earning money online while still learning to code 🚀<br>
 
