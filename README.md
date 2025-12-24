@@ -1,5 +1,4 @@
 ## 💫 About Me
-[![Hazelnuts](./media/image.jpg)](https://zelapioffciall.koyeb.app)
 🔭 I’m currently working on<br>Web projects & small automation tools<br>Digital assets & online services<br><br>👯 I’m looking to collaborate on<br>Open-source beginner projects<br>Discord bots & web-based tools<br>Programming communities<br><br>🤝 I’m looking for help with<br>Backend development<br>API integration<br>Cybersecurity fundamentals<br><br>🌱 I’m currently learning<br>HTML, CSS, JavaScript<br>Bot automation & basic backend<br>Cybersecurity & ethical hacking basics<br><br>💬 Ask me about<br>Beginner coding<br>Discord bots<br>Online projects & teamwork<br><br>⚡ Fun fact<br>I started earning money online while still learning to code 🚀<br>
 
 
