@@ -1,21 +1,62 @@
-## 💫 About Me
-🔭 I’m currently working on<br>Web projects & small automation tools<br>Digital assets & online services<br><br>👯 I’m looking to collaborate on<br>Open-source beginner projects<br>Discord bots & web-based tools<br>Programming communities<br><br>🤝 I’m looking for help with<br>Backend development<br>API integration<br>Cybersecurity fundamentals<br><br>🌱 I’m currently learning<br>HTML, CSS, JavaScript<br>Bot automation & basic backend<br>Cybersecurity & ethical hacking basics<br><br>💬 Ask me about<br>Beginner coding<br>Discord bots<br>Online projects & teamwork<br><br>⚡ Fun fact<br>I started earning money online while still learning to code 🚀<br>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Zikri!;Cyber+Security+Enthusiast;White+Hat+Hacker+in+Training!;Scanning+%26+Securing+the+Web" alt="Typing SVG" />
+  </a>
+</h1>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EqY5dt4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zikri_graphy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@mzikrialhafiz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zizitrading8@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zizi32&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zizi32&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi32&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ethical_Hacker_in_the_making-brightgreen?style=for-the-badge&logo=visual-studio-code" alt="Status" />
+  <img src="https://img.shields.io/badge/Recognition-FKUI_Library_XSS_Reporter-red?style=for-the-badge&logo=university" alt="Cert" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zizi32&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am a passionate learner in the world of **Cyber Security**. Currently focusing on mastering the art of ethical hacking and web application security.
+
+* 🕵️‍♂️ **Current Focus**: Web Penetration Testing (**XSS**, **SQLi**), OSINT, and Networking.
+* 🎓 **Recent Achievement**: Successfully reported an XSS vulnerability to the **FKUI Library**
+* 💻 **Active On**: Practicing labs on **TryHackMe** and **HackTheBox**.
+* 💬 **Ask me about**: *Kali Linux, Burp Suite, XSStrike, Dalfox, or Linux System Admin.*
+
+---
+
+## 🛠️ Tech Stack & Security Arsenal
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=black" alt="Burp" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Sqlmap-E34F26?style=for-the-badge&logo=data-usage&logoColor=white" alt="Sqlmap" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zizi32&show_icons=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&hide=prs&border_radius=5&count_private=true" alt="Zikri Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi32&layout=compact&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000&hide=prs&border_radius=5" alt="Zikri Top Langs" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://t.me/Zikri_store" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:zizitrading8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/zizi32" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&text=Zizi32%20-%20Always%20Learning&fontSize=20&fontAlignY=60" alt="Footer" />
+</p>
