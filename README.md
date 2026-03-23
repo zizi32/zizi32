@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Zikri!;Cyber+Security+Enthusiast;White+Hat+Hacker+in+Training!;Scanning+%26+Securing+the+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pau&color=00FF41&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Zikri!;Cyber+Security+Enthusiast;White+Hat+Hacker+in+Training!;Scanning+%26+Securing+the+Web" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ethical_Hacker_in_the_making-brightgreen?style=for-the-badge&logo=visual-studio-code" alt="Status" />
-  <a href="https://n.uguu.se/NEQUaRtZ.jpg" target="_blank">
+  <a href="https://files.catbox.moe/9lskwc.jpg" target="_blank">
     <img src="https://img.shields.io/badge/Recognition-FKUI_Library_XSS_Reporter-red?style=for-the-badge&logo=university" alt="FKUI Certificate" />
   </a>
 </p>
